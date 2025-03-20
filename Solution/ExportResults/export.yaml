@@ -1,0 +1,16 @@
+- Sort: Account
+  Id: 1
+  Name: dep
+  Balance: 10777
+- Sort: Category
+  Id: 1
+  Type: Income
+  Name: biba
+- Sort: Operation
+  Id: 1
+  Type: Income
+  BankAccountId: 1
+  Amount: 777
+  Date: 2025-03-19T21:53:53.1236830+03:00
+  CategoryId: 1
+  Description: DADAD

@@ -1,0 +1,15 @@
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\bin\Debug\net8.0\FinanceModule.Infrastructure.deps.json
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\bin\Debug\net8.0\FinanceModule.Infrastructure.dll
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\bin\Debug\net8.0\FinanceModule.Infrastructure.pdb
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\bin\Debug\net8.0\FinanceModule.Domain.dll
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\bin\Debug\net8.0\FinanceModule.Domain.pdb
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\obj\Debug\net8.0\FinanceModule.Infrastructure.csproj.AssemblyReference.cache
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\obj\Debug\net8.0\FinanceModule.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\obj\Debug\net8.0\FinanceModule.Infrastructure.AssemblyInfoInputs.cache
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\obj\Debug\net8.0\FinanceModule.Infrastructure.AssemblyInfo.cs
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\obj\Debug\net8.0\FinanceModule.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\obj\Debug\net8.0\FinanceM.9389217A.Up2Date
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\obj\Debug\net8.0\FinanceModule.Infrastructure.dll
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\obj\Debug\net8.0\refint\FinanceModule.Infrastructure.dll
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\obj\Debug\net8.0\FinanceModule.Infrastructure.pdb
+D:\Vblshka\ABC\Solution\FinanceModule.Infrastructure\obj\Debug\net8.0\ref\FinanceModule.Infrastructure.dll

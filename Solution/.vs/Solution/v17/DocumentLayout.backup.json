@@ -1,0 +1,643 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Vblshka\\ABC\\Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\financemodule.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\financemodule.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\programtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0418\u043B\u044C\u044F\\.nuget\\packages\\newtonsoft.json\\13.0.3\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0418\u043B\u044C\u044F\\.nuget\\packages\\newtonsoft.json\\13.0.3\\LICENSE.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAC89B3-3EF6-47A2-84D9-76F371D6863F}|Solution\\FinanceModule.Console.csproj|d:\\vblshka\\abc\\solution\\solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEAC89B3-3EF6-47A2-84D9-76F371D6863F}|Solution\\FinanceModule.Console.csproj|solutionrelative:solution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\commands\\createcategorycommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\commands\\createcategorycommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\commands\\createaccountcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\commands\\createaccountcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\commands\\createoperationcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\commands\\createoperationcommandtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB0ABF1-5E7C-4194-8FF7-105B6827DCB0}|FinanceModule.Application\\FinanceModule.Application.csproj|d:\\vblshka\\abc\\solution\\financemodule.application\\commands\\createoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB0ABF1-5E7C-4194-8FF7-105B6827DCB0}|FinanceModule.Application\\FinanceModule.Application.csproj|solutionrelative:financemodule.application\\commands\\createoperationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\importers\\yamldataimportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\importers\\yamldataimportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\importers\\jsondataimportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\importers\\jsondataimportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\importers\\csvdataimportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\importers\\csvdataimportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\exporters\\yamlexportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\exporters\\yamlexportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\exporters\\jsonexportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\exporters\\jsonexportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\exporters\\csvexportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\exporters\\csvexportertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\services\\bankaccountfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\services\\bankaccountfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\services\\categoryfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\services\\categoryfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|d:\\vblshka\\abc\\solution\\financemodule.tests\\services\\operationfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF25634-CF8E-428B-BB34-14ABFDA97033}|FinanceModule.Tests\\FinanceModule.Tests.csproj|solutionrelative:financemodule.tests\\services\\operationfacadetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|d:\\vblshka\\abc\\solution\\financemodule.infrastructure\\exporters\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|solutionrelative:financemodule.infrastructure\\exporters\\csvexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|d:\\vblshka\\abc\\solution\\financemodule.infrastructure\\importers\\csvdataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|solutionrelative:financemodule.infrastructure\\importers\\csvdataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|d:\\vblshka\\abc\\solution\\financemodule.infrastructure\\importers\\yamldataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|solutionrelative:financemodule.infrastructure\\importers\\yamldataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|d:\\vblshka\\abc\\solution\\financemodule.infrastructure\\exporters\\yamlexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|solutionrelative:financemodule.infrastructure\\exporters\\yamlexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|d:\\vblshka\\abc\\solution\\financemodule.domain\\services\\bankaccountfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|solutionrelative:financemodule.domain\\services\\bankaccountfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|d:\\vblshka\\abc\\solution\\financemodule.infrastructure\\importers\\jsondataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|solutionrelative:financemodule.infrastructure\\importers\\jsondataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|d:\\vblshka\\abc\\solution\\financemodule.domain\\services\\operationfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|solutionrelative:financemodule.domain\\services\\operationfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|d:\\vblshka\\abc\\solution\\financemodule.infrastructure\\importers\\dataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|solutionrelative:financemodule.infrastructure\\importers\\dataimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB0ABF1-5E7C-4194-8FF7-105B6827DCB0}|FinanceModule.Application\\FinanceModule.Application.csproj|d:\\vblshka\\abc\\solution\\financemodule.application\\commands\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB0ABF1-5E7C-4194-8FF7-105B6827DCB0}|FinanceModule.Application\\FinanceModule.Application.csproj|solutionrelative:financemodule.application\\commands\\createaccountcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|d:\\vblshka\\abc\\solution\\financemodule.infrastructure\\interfaces\\idataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|solutionrelative:financemodule.infrastructure\\interfaces\\idataexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|d:\\vblshka\\abc\\solution\\financemodule.infrastructure\\exporters\\jsonexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF4BBBC3-A077-4692-89CE-46FE2784A925}|FinanceModule.Infrastructure\\FinanceModule.Infrastructure.csproj|solutionrelative:financemodule.infrastructure\\exporters\\jsonexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|d:\\vblshka\\abc\\solution\\financemodule.domain\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|solutionrelative:financemodule.domain\\models\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|d:\\vblshka\\abc\\solution\\financemodule.domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|solutionrelative:financemodule.domain\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|d:\\vblshka\\abc\\solution\\financemodule.domain\\services\\categoryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|solutionrelative:financemodule.domain\\services\\categoryfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|d:\\vblshka\\abc\\solution\\financemodule.domain\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|solutionrelative:financemodule.domain\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB0ABF1-5E7C-4194-8FF7-105B6827DCB0}|FinanceModule.Application\\FinanceModule.Application.csproj|d:\\vblshka\\abc\\solution\\financemodule.application\\decorators\\timedcommanddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB0ABF1-5E7C-4194-8FF7-105B6827DCB0}|FinanceModule.Application\\FinanceModule.Application.csproj|solutionrelative:financemodule.application\\decorators\\timedcommanddecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB0ABF1-5E7C-4194-8FF7-105B6827DCB0}|FinanceModule.Application\\FinanceModule.Application.csproj|d:\\vblshka\\abc\\solution\\financemodule.application\\commands\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB0ABF1-5E7C-4194-8FF7-105B6827DCB0}|FinanceModule.Application\\FinanceModule.Application.csproj|solutionrelative:financemodule.application\\commands\\createcategorycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB0ABF1-5E7C-4194-8FF7-105B6827DCB0}|FinanceModule.Application\\FinanceModule.Application.csproj|d:\\vblshka\\abc\\solution\\financemodule.application\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB0ABF1-5E7C-4194-8FF7-105B6827DCB0}|FinanceModule.Application\\FinanceModule.Application.csproj|solutionrelative:financemodule.application\\interfaces\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|d:\\vblshka\\abc\\solution\\financemodule.domain\\interfaces\\iexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{068DE077-3141-42D2-ABA5-30F5812AF09F}|FinanceModule.Domain\\FinanceModule.Domain.csproj|solutionrelative:financemodule.domain\\interfaces\\iexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "YamlDataImporterTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Importers\\YamlDataImporterTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Importers\\YamlDataImporterTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Importers\\YamlDataImporterTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Importers\\YamlDataImporterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:57:56.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CsvDataImporterTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Importers\\CsvDataImporterTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Importers\\CsvDataImporterTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Importers\\CsvDataImporterTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Importers\\CsvDataImporterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:57:38.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JsonDataImporterTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Importers\\JsonDataImporterTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Importers\\JsonDataImporterTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Importers\\JsonDataImporterTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Importers\\JsonDataImporterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:57:46.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "JsonExporterTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Exporters\\JsonExporterTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Exporters\\JsonExporterTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Exporters\\JsonExporterTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Exporters\\JsonExporterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:58:14.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateCategoryCommandTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Commands\\CreateCategoryCommandTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Commands\\CreateCategoryCommandTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Commands\\CreateCategoryCommandTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Commands\\CreateCategoryCommandTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:57:14.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateAccountCommandTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Commands\\CreateAccountCommandTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Commands\\CreateAccountCommandTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Commands\\CreateAccountCommandTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Commands\\CreateAccountCommandTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:57:04.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinanceModule.Tests.csproj",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\FinanceModule.Tests.csproj",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\FinanceModule.Tests.csproj",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\FinanceModule.Tests.csproj",
+              "RelativeToolTip": "FinanceModule.Tests\\FinanceModule.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-20T10:51:21.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\.nuget\\packages\\newtonsoft.json\\13.0.3\\README.md",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\.nuget\\packages\\newtonsoft.json\\13.0.3\\README.md [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAACIAAAAAAAAAAGBnwAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-20T12:35:14.697Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateOperationCommandTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Commands\\CreateOperationCommandTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Commands\\CreateOperationCommandTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Commands\\CreateOperationCommandTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Commands\\CreateOperationCommandTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:57:28.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProgramTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\ProgramTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\ProgramTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\ProgramTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\ProgramTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:51:58.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CsvExporterTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Exporters\\CsvExporterTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Exporters\\CsvExporterTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Exporters\\CsvExporterTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Exporters\\CsvExporterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:58:06.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LICENSE.md",
+              "DocumentMoniker": "C:\\Users\\\u0418\u043B\u044C\u044F\\.nuget\\packages\\newtonsoft.json\\13.0.3\\LICENSE.md",
+              "ToolTip": "C:\\Users\\\u0418\u043B\u044C\u044F\\.nuget\\packages\\newtonsoft.json\\13.0.3\\LICENSE.md [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-03-20T12:35:13.517Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YamlExporterTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Exporters\\YamlExporterTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Exporters\\YamlExporterTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Exporters\\YamlExporterTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Exporters\\YamlExporterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:58:23.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\Solution\\Program.cs",
+              "RelativeDocumentMoniker": "Solution\\Program.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\Solution\\Program.cs",
+              "RelativeToolTip": "Solution\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:45:43.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateOperationCommand.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Application\\Commands\\CreateOperationCommand.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Application\\Commands\\CreateOperationCommand.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Application\\Commands\\CreateOperationCommand.cs",
+              "RelativeToolTip": "FinanceModule.Application\\Commands\\CreateOperationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:00:38.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BankAccountFacadeTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Services\\BankAccountFacadeTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Services\\BankAccountFacadeTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Services\\BankAccountFacadeTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Services\\BankAccountFacadeTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:55:57.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryFacadeTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Services\\CategoryFacadeTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Services\\CategoryFacadeTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Services\\CategoryFacadeTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Services\\CategoryFacadeTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:56:33.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OperationFacadeTests.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Services\\OperationFacadeTests.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Tests\\Services\\OperationFacadeTests.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Tests\\Services\\OperationFacadeTests.cs",
+              "RelativeToolTip": "FinanceModule.Tests\\Services\\OperationFacadeTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T10:56:47.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CsvExporter.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Exporters\\CsvExporter.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Infrastructure\\Exporters\\CsvExporter.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Exporters\\CsvExporter.cs",
+              "RelativeToolTip": "FinanceModule.Infrastructure\\Exporters\\CsvExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:54:48.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CsvDataImporter.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Importers\\CsvDataImporter.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Infrastructure\\Importers\\CsvDataImporter.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Importers\\CsvDataImporter.cs",
+              "RelativeToolTip": "FinanceModule.Infrastructure\\Importers\\CsvDataImporter.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwEYAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:31:40.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "JsonExporter.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Exporters\\JsonExporter.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Infrastructure\\Exporters\\JsonExporter.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Exporters\\JsonExporter.cs",
+              "RelativeToolTip": "FinanceModule.Infrastructure\\Exporters\\JsonExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:21:07.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IDataExporter.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Interfaces\\IDataExporter.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Infrastructure\\Interfaces\\IDataExporter.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Interfaces\\IDataExporter.cs",
+              "RelativeToolTip": "FinanceModule.Infrastructure\\Interfaces\\IDataExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:20:33.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CategoryFacade.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Services\\CategoryFacade.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Domain\\Services\\CategoryFacade.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Services\\CategoryFacade.cs",
+              "RelativeToolTip": "FinanceModule.Domain\\Services\\CategoryFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T15:59:47.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Application\\Interfaces\\ICommand.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Application\\Interfaces\\ICommand.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Application\\Interfaces\\ICommand.cs",
+              "RelativeToolTip": "FinanceModule.Application\\Interfaces\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:02:29.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IExporter.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Interfaces\\IExporter.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Domain\\Interfaces\\IExporter.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Interfaces\\IExporter.cs",
+              "RelativeToolTip": "FinanceModule.Domain\\Interfaces\\IExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:54:05.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BankAccountFacade.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Services\\BankAccountFacade.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Domain\\Services\\BankAccountFacade.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Services\\BankAccountFacade.cs",
+              "RelativeToolTip": "FinanceModule.Domain\\Services\\BankAccountFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:53:26.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Models\\Operation.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Domain\\Models\\Operation.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Models\\Operation.cs",
+              "RelativeToolTip": "FinanceModule.Domain\\Models\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:52:56.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Domain\\Models\\Category.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Models\\Category.cs",
+              "RelativeToolTip": "FinanceModule.Domain\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:52:47.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CreateAccountCommand.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Application\\Commands\\CreateAccountCommand.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Application\\Commands\\CreateAccountCommand.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Application\\Commands\\CreateAccountCommand.cs",
+              "RelativeToolTip": "FinanceModule.Application\\Commands\\CreateAccountCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:55:39.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OperationFacade.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Services\\OperationFacade.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Domain\\Services\\OperationFacade.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Services\\OperationFacade.cs",
+              "RelativeToolTip": "FinanceModule.Domain\\Services\\OperationFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:00:03.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JsonDataImporter.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Importers\\JsonDataImporter.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Infrastructure\\Importers\\JsonDataImporter.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Importers\\JsonDataImporter.cs",
+              "RelativeToolTip": "FinanceModule.Infrastructure\\Importers\\JsonDataImporter.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAuwEAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:31:59.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "YamlDataImporter.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Importers\\YamlDataImporter.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Infrastructure\\Importers\\YamlDataImporter.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Importers\\YamlDataImporter.cs",
+              "RelativeToolTip": "FinanceModule.Infrastructure\\Importers\\YamlDataImporter.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:32:38.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "YamlExporter.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Exporters\\YamlExporter.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Infrastructure\\Exporters\\YamlExporter.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Exporters\\YamlExporter.cs",
+              "RelativeToolTip": "FinanceModule.Infrastructure\\Exporters\\YamlExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:25:56.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DataImporter.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Importers\\DataImporter.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Infrastructure\\Importers\\DataImporter.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Infrastructure\\Importers\\DataImporter.cs",
+              "RelativeToolTip": "FinanceModule.Infrastructure\\Importers\\DataImporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T18:31:25.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Domain\\Models\\BankAccount.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Domain\\Models\\BankAccount.cs",
+              "RelativeToolTip": "FinanceModule.Domain\\Models\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:52:35.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "TimedCommandDecorator.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Application\\Decorators\\TimedCommandDecorator.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Application\\Decorators\\TimedCommandDecorator.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Application\\Decorators\\TimedCommandDecorator.cs",
+              "RelativeToolTip": "FinanceModule.Application\\Decorators\\TimedCommandDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:56:20.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateCategoryCommand.cs",
+              "DocumentMoniker": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Application\\Commands\\CreateCategoryCommand.cs",
+              "RelativeDocumentMoniker": "FinanceModule.Application\\Commands\\CreateCategoryCommand.cs",
+              "ToolTip": "D:\\Vblshka\\ABC\\Solution\\FinanceModule.Application\\Commands\\CreateCategoryCommand.cs",
+              "RelativeToolTip": "FinanceModule.Application\\Commands\\CreateCategoryCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T16:00:21.401Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

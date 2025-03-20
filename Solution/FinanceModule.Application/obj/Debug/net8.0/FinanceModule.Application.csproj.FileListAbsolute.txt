@@ -1,0 +1,15 @@
+D:\Vblshka\ABC\Solution\FinanceModule.Application\bin\Debug\net8.0\FinanceModule.Application.deps.json
+D:\Vblshka\ABC\Solution\FinanceModule.Application\bin\Debug\net8.0\FinanceModule.Application.dll
+D:\Vblshka\ABC\Solution\FinanceModule.Application\bin\Debug\net8.0\FinanceModule.Application.pdb
+D:\Vblshka\ABC\Solution\FinanceModule.Application\bin\Debug\net8.0\FinanceModule.Domain.dll
+D:\Vblshka\ABC\Solution\FinanceModule.Application\bin\Debug\net8.0\FinanceModule.Domain.pdb
+D:\Vblshka\ABC\Solution\FinanceModule.Application\obj\Debug\net8.0\FinanceModule.Application.csproj.AssemblyReference.cache
+D:\Vblshka\ABC\Solution\FinanceModule.Application\obj\Debug\net8.0\FinanceModule.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vblshka\ABC\Solution\FinanceModule.Application\obj\Debug\net8.0\FinanceModule.Application.AssemblyInfoInputs.cache
+D:\Vblshka\ABC\Solution\FinanceModule.Application\obj\Debug\net8.0\FinanceModule.Application.AssemblyInfo.cs
+D:\Vblshka\ABC\Solution\FinanceModule.Application\obj\Debug\net8.0\FinanceModule.Application.csproj.CoreCompileInputs.cache
+D:\Vblshka\ABC\Solution\FinanceModule.Application\obj\Debug\net8.0\FinanceM.C61ECB18.Up2Date
+D:\Vblshka\ABC\Solution\FinanceModule.Application\obj\Debug\net8.0\FinanceModule.Application.dll
+D:\Vblshka\ABC\Solution\FinanceModule.Application\obj\Debug\net8.0\refint\FinanceModule.Application.dll
+D:\Vblshka\ABC\Solution\FinanceModule.Application\obj\Debug\net8.0\FinanceModule.Application.pdb
+D:\Vblshka\ABC\Solution\FinanceModule.Application\obj\Debug\net8.0\ref\FinanceModule.Application.dll
