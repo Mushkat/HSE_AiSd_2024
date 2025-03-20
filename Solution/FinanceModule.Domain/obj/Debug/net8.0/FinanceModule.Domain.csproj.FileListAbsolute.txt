@@ -1,0 +1,11 @@
+D:\Vblshka\ABC\Solution\FinanceModule.Domain\bin\Debug\net8.0\FinanceModule.Domain.deps.json
+D:\Vblshka\ABC\Solution\FinanceModule.Domain\bin\Debug\net8.0\FinanceModule.Domain.dll
+D:\Vblshka\ABC\Solution\FinanceModule.Domain\bin\Debug\net8.0\FinanceModule.Domain.pdb
+D:\Vblshka\ABC\Solution\FinanceModule.Domain\obj\Debug\net8.0\FinanceModule.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vblshka\ABC\Solution\FinanceModule.Domain\obj\Debug\net8.0\FinanceModule.Domain.AssemblyInfoInputs.cache
+D:\Vblshka\ABC\Solution\FinanceModule.Domain\obj\Debug\net8.0\FinanceModule.Domain.AssemblyInfo.cs
+D:\Vblshka\ABC\Solution\FinanceModule.Domain\obj\Debug\net8.0\FinanceModule.Domain.csproj.CoreCompileInputs.cache
+D:\Vblshka\ABC\Solution\FinanceModule.Domain\obj\Debug\net8.0\FinanceModule.Domain.dll
+D:\Vblshka\ABC\Solution\FinanceModule.Domain\obj\Debug\net8.0\refint\FinanceModule.Domain.dll
+D:\Vblshka\ABC\Solution\FinanceModule.Domain\obj\Debug\net8.0\FinanceModule.Domain.pdb
+D:\Vblshka\ABC\Solution\FinanceModule.Domain\obj\Debug\net8.0\ref\FinanceModule.Domain.dll

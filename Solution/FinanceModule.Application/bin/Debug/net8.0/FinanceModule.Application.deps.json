@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FinanceModule.Application/1.0.0": {
+        "dependencies": {
+          "FinanceModule.Domain": "1.0.0"
+        },
+        "runtime": {
+          "FinanceModule.Application.dll": {}
+        }
+      },
+      "FinanceModule.Domain/1.0.0": {
+        "runtime": {
+          "FinanceModule.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FinanceModule.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FinanceModule.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
